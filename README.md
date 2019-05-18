@@ -6,7 +6,7 @@ This tool helps support agents of eXo Platform MEA to create an offline patch pa
 To obtain the program: 
 
    * Clone the project.
-   * Compile the project with Java
+   * Compile the project with Java JDK8 or heigher
    * Netbeans is recommanded.
    
 Or download the last binary version via http://exosp.alwaysdata.net
